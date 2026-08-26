@@ -1,0 +1,6 @@
+.venv/
+.env
+/instance/
+/test.db
+*.pyc
+.idea/
