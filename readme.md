@@ -153,3 +153,7 @@ Task-Management-Api/
 The core API is complete and working with PostgreSQL.
 
 The project currently includes JWT authentication, task ownership authorization, database migrations, request validation, and automated tests.
+
+## Live APi
+
+https://task-management-api-ftc6.onrender.com/
