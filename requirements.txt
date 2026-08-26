@@ -5,3 +5,4 @@ Flask-JWT-Extended
 psycopg[binary]
 pytest
 gunicorn
+email-validator
