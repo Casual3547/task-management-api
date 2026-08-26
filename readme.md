@@ -50,7 +50,7 @@ flask db upgrade
 ### Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Casual3547/task-management-api.git
 cd Task-Management-Api
 ```
 
