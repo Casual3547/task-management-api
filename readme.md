@@ -51,7 +51,7 @@ flask db upgrade
 
 ```bash
 git clone https://github.com/Casual3547/task-management-api.git
-cd Task-Management-Api
+cd task-management-api
 ```
 
 ### Create a virtual environment
@@ -99,9 +99,7 @@ flask run
 
 The API will be available at:
 
-```text
 http://127.0.0.1:5000
-```
 
 ## Running Tests
 
@@ -154,6 +152,6 @@ The core API is complete and working with PostgreSQL.
 
 The project currently includes JWT authentication, task ownership authorization, database migrations, request validation, and automated tests.
 
-## Live APi
+## Live API
 
 https://task-management-api-ftc6.onrender.com/
